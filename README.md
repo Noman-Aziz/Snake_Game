@@ -21,3 +21,6 @@ To Compile:-
 To Run:-
 
 *Type ./game-release*
+
+To Play:-
+*Use Arrow Keys to Start the game and Esc to exit the game.*
